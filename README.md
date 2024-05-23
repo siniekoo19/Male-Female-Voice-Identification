@@ -1,4 +1,4 @@
-# Male-Female-Voice-Identification
+# Male-Female-Voice-Identification 🚺🚹🔊
 This repository contains the code and resources for a deep learning-based male-female voice identification system. The model achieves an impressive 99% accuracy on test data and demonstrates robust performance with a validation accuracy of 98.22% and a validation AUC of 99.58%.
 
 ## Features
